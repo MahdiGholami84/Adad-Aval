@@ -27,7 +27,7 @@ else print "عدد وارد شد اول نیست"
 
 4.end
 
-<img src="H:\۲۰۲۲۱۱۱۲_۲۳۴۹۴۹.jpg"/>
+<img src="H:/۲۰۲۲۱۱۱۲_۲۳۴۹۴۹.jpg"/>
 
 </body>
 </html>
