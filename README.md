@@ -27,7 +27,8 @@ else print "عدد وارد شد اول نیست"
 
 4.end
 
-<img src="H:/۲۰۲۲۱۱۱۲_۲۳۴۹۴۹.jpg"/>
+  ![Uploading ۲۰۲۲۱۱۱۲_۲۳۴۹۴۹.jpg…]()
+
 
 </body>
-</html>
+
