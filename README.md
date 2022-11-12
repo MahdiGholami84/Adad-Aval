@@ -27,7 +27,8 @@ else print "عدد وارد شد اول نیست"
 
 4.end
 
-  ![Uploading ۲۰۲۲۱۱۱۲_۲۳۴۹۴۹.jpg…]()
+![۲۰۲۲۱۱۱۲_۲۳۴۹۴۹](https://user-images.githubusercontent.com/117587862/201493990-0a6ff319-7b90-4b14-bbbf-51402d5ae5fd.jpg)
+
 
 
 </body>
